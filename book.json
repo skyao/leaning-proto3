@@ -1,5 +1,5 @@
 {
-    "author": "Sky Ao <aoxiaojian@gmail.cn>",
+    "author": "Sky Ao <aoxiaojian@gmail.com>",
     "description": "Proto3(google protocol buffer 3)学习笔记和英文资料翻译。",
     "extension": null,
     "generator": "site",
@@ -30,7 +30,7 @@
         "pageNumbers": false,
         "paperSize": "a4"
     },
-    "plugins": [""],
+    "plugins": [],
     "title": "Leaning Proto3",
     "variables": {}
 }
