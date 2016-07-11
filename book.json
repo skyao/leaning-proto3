@@ -5,7 +5,7 @@
   "generator": "site",
   "links": {
     "sidebar": {
-      "Sky@gitbook": "skyao.gitbooks.io"
+      "Sky@gitbook": "https://skyao.gitbooks.io"
     }
   },
   "output": null,
