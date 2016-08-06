@@ -1,6 +1,7 @@
 bui# Summary
 
 * [proto3 介绍](introduction/index.md)
+	* [v3.0.0发布信息(翻译)](introduction/release_note.md)
     * [proto3 信息](introduction/information.md)
 * [开发指南(翻译)](guide/index.md)
     * [概述](guide/overview.md)
@@ -33,7 +34,6 @@ bui# Summary
         * [Oneof](reference/java/oneof.md)
         * [枚举](reference/java/enumerations.md)
         * [扩展](reference/java/extensions.md)
-    * [Proto2语言规范(翻译)](reference/proto2-spec/index.md)
     * [Proto3语言规范(翻译)](reference/proto3-spec/index.md)
 
 
