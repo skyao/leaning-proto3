@@ -23,7 +23,7 @@
   ],
   "pluginsConfig": {
     "edit-link": {
-        "base": "https://github.com/skyao/leaning-proto3/edit/master",
+        "base": "https://github.com/skyao/learning-proto3/edit/master",
         "label": "Edit"
     }
   },
