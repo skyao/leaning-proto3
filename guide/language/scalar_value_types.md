@@ -16,7 +16,6 @@ Scalar值类型
 | double        | double 		|
 | float         | float      	|
 | int32			| int 	        |
-| int32			| int 	        |
 | int64			| long 	        |
 | bool			| boolean       |
 | string		| String        |
